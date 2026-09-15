@@ -52,4 +52,5 @@ User.init({
   paranoid: true,
 });
 
+
 module.exports = User
